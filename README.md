@@ -88,7 +88,7 @@ Improve model accuracy
 
 👩‍💻 Author
 
-Poornima Jain
+Poornima 
 
 GitHub: @jainpoornimar
 
